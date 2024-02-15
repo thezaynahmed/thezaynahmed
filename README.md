@@ -1,4 +1,4 @@
-<a href="https://zainahmed.netlify.app"><img src="https://github.com/thezaynahmed/thezaynahmed/blob/main/zain-ahmed-website.png" alt="Zain Ahmed' Website"/></a>
+<a href="https://zainahmed.net"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/zainahmed.png" alt="Zain Ahmed' Website"/></a>
 
 ## 👨‍💻 Profile Summary
 Passionate, results-driven Front-End Developer with a proven track record of creating exceptional user experiences. Proficient in cutting-edge technologies, including Bootstrap, JavaScript, CSS3, and HTML5. Known for resolving complex issues related to browser and network performance, client-side scaling, and usability. Adept at crafting high-performance web applications through meticulous coding and problem-solving.
