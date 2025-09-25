@@ -1,5 +1,3 @@
-<a href="https://zainahmed.net"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/zainahmed.png" alt="Zain Ahmed' Website"/></a>
-
 <div align="center">
 
 ### DevOps Engineer | Cloud & Platform Engineer (AWS, Azure, GCP) | Full-Stack Developer
@@ -14,7 +12,7 @@
 ---
 
 ## 👨‍💻 Profile Summary  
-Certified **DevOps Engineer** with expertise in architecting scalable cloud infrastructure across **AWS, Azure, and GCP** and orchestrating automated CI/CD pipelines. [cite_start]Proven ability to reduce deployment failures by 75% [cite: 23][cite_start], accelerate release cycles from days to hours [cite: 23][cite_start], and enhance system observability using **Terraform, Kubernetes, and modern monitoring stacks**[cite: 6]. As a **Full-Stack Developer**, I bridge the gap between development and operations to deliver innovative and high-performance cloud-native applications.
+Certified **DevOps Engineer** with expertise in architecting scalable cloud infrastructure across **AWS, Azure, and GCP** and orchestrating automated CI/CD pipelines. Proven ability to reduce deployment failures by 75%, accelerate release cycles from days to hours, and enhance system observability using **Terraform, Kubernetes, and modern monitoring stacks**. As a **Full-Stack Developer**, I bridge the gap between development and operations to deliver innovative and high-performance cloud-native applications.
 
 ---
 
@@ -76,19 +74,19 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 
 ### **Solutions Architect / DevOps Engineer** - PivotalBuild (Remote)
 *Architected and automated multi-cloud infrastructure and modernized CI/CD pipelines to drive efficiency.*
-- [cite_start]Cut deployment failures by 75% and reduced release cycles from days to hours using Jenkins, Docker, and Kubernetes. [cite: 23]
-- [cite_start]Decreased environment setup time by 90% by creating 15+ reusable Terraform modules for AWS and Azure. [cite: 24]
-- [cite_start]Improved system visibility and reduced MTTD for production issues by 60% with a Prometheus and Grafana stack. [cite: 25]
+- Cut deployment failures by 75% and reduced release cycles from days to hours using Jenkins, Docker, and Kubernetes.
+- Decreased environment setup time by 90% by creating 15+ reusable Terraform modules for AWS and Azure.
+- Improved system visibility and reduced MTTD for production issues by 60% with a Prometheus and Grafana stack.
 
 ### **DevOps Consultant (Part-Time)** - MapleGenix
 *Designed secure, container-based architectures and automated deployment processes for clients.*
-- [cite_start]Improved application portability and scalability by designing a Docker and Kubernetes-based architecture. [cite: 31, 32]
-- [cite_start]Demonstrated a 10x improvement over manual processes by developing a proof-of-concept CI/CD pipeline with GitHub Actions. [cite: 33]
+- Improved application portability and scalability by designing a Docker and Kubernetes-based architecture.
+- Demonstrated a 10x improvement over manual processes by developing a proof-of-concept CI/CD pipeline with GitHub Actions.
 
 ### **Coding Instructor** - Skill Samurai
 *Mentored the next generation of developers in modern web technologies and cloud computing.*
-- [cite_start]Developed engaging, AI-enhanced coding curricula for youth (ages 8-16). [cite: 39]
-- [cite_start]Led interactive coding workshops for 25+ students, teaching programming logic and collaborative development. [cite: 42]
+- Developed engaging, AI-enhanced coding curricula for youth (ages 8-16).
+- Led interactive coding workshops for 25+ students, teaching programming logic and collaborative development.
 
 ---
 
@@ -98,8 +96,8 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 - ☁️ **AWS Certified Solutions Architect** - Associate
 - 🔧 **Microsoft Azure Administrator** (AZ-104) - *In Progress*
 - ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
-- [cite_start]📈 **National First Runner-Up** - Contest-Azm 2020 Mobile App Development [cite: 65]
-- [cite_start]🔒 **99.9% uptime** engineered for a cloud-native LMS application supporting thousands of users [cite: 69]
+- 📈 **National First Runner-Up** - Contest-Azm 2020 Mobile App Development
+- 🔒 **99.9% uptime** engineered for a cloud-native LMS application supporting thousands of users
 
 ---
 
