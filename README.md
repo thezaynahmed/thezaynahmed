@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### Cloud Solutions Architect | Full-Stack Developer | DevOps Engineer
-*Transforming ideas into scalable cloud-native solutions*
+### DevOps Engineer | Cloud & Platform Engineer (AWS, Azure, GCP) | Full-Stack Developer
+*Building resilient, secure, and efficient developer platforms*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 Profile Summary  
-Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer** with 6+ years of experience building scalable, secure, and high-performance applications. Specialized in **Cloud & DevOps**, with deep expertise in **AWS, CI/CD pipelines, containerization, and infrastructure automation**. Proven track record of bridging development and operations to streamline deployments, reduce downtime by 40%, and enhance system reliability. Strong foundation in **modern web frameworks** and **AI-powered solutions**, enabling delivery of innovative cloud-native applications that drive business growth.
+Certified **DevOps Engineer** with expertise in architecting scalable cloud infrastructure across **AWS, Azure, and GCP** and orchestrating automated CI/CD pipelines. [cite_start]Proven ability to reduce deployment failures by 75% [cite: 23][cite_start], accelerate release cycles from days to hours [cite: 23][cite_start], and enhance system observability using **Terraform, Kubernetes, and modern monitoring stacks**[cite: 6]. As a **Full-Stack Developer**, I bridge the gap between development and operations to deliver innovative and high-performance cloud-native applications.
 
 ---
 
@@ -72,6 +72,37 @@ Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer
 
 ---
 
+## 💼 Professional Experience
+
+### **Solutions Architect / DevOps Engineer** - PivotalBuild (Remote)
+*Architected and automated multi-cloud infrastructure and modernized CI/CD pipelines to drive efficiency.*
+- [cite_start]Cut deployment failures by 75% and reduced release cycles from days to hours using Jenkins, Docker, and Kubernetes. [cite: 23]
+- [cite_start]Decreased environment setup time by 90% by creating 15+ reusable Terraform modules for AWS and Azure. [cite: 24]
+- [cite_start]Improved system visibility and reduced MTTD for production issues by 60% with a Prometheus and Grafana stack. [cite: 25]
+
+### **DevOps Consultant (Part-Time)** - MapleGenix
+*Designed secure, container-based architectures and automated deployment processes for clients.*
+- [cite_start]Improved application portability and scalability by designing a Docker and Kubernetes-based architecture. [cite: 31, 32]
+- [cite_start]Demonstrated a 10x improvement over manual processes by developing a proof-of-concept CI/CD pipeline with GitHub Actions. [cite: 33]
+
+### **Coding Instructor** - Skill Samurai
+*Mentored the next generation of developers in modern web technologies and cloud computing.*
+- [cite_start]Developed engaging, AI-enhanced coding curricula for youth (ages 8-16). [cite: 39]
+- [cite_start]Led interactive coding workshops for 25+ students, teaching programming logic and collaborative development. [cite: 42]
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **AWS Certified DevOps Engineer** - Professional
+- ☁️ **AWS Certified Solutions Architect** - Associate
+- 🔧 **Microsoft Azure Administrator** (AZ-104) - *In Progress*
+- ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
+- [cite_start]📈 **National First Runner-Up** - Contest-Azm 2020 Mobile App Development [cite: 65]
+- [cite_start]🔒 **99.9% uptime** engineered for a cloud-native LMS application supporting thousands of users [cite: 69]
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -83,71 +114,6 @@ Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 **AWS Certified DevOps Engineer** - Professional
-- ☁️ **AWS Certified Solutions Architect** - Associate
-- 🔧 **Microsoft Azure Administrator** (AZ-104) - *In Progress*
-- 🚀 **Microsoft 365 Certified** (MS-102) - *In Progress*
-- ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
-- 📈 **40% deployment time reduction** through CI/CD optimization
-- 🔒 **99.9% uptime** achieved for production applications
-- 💼 **6+ years** of full-stack development and cloud architecture experience
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 [Cloud-Native E-commerce Platform](https://github.com/thezaynahmed/ecommerce-cloud)
-**Tech Stack:** AWS, React, Node.js, Docker, Terraform
-- Architected scalable microservices on AWS with auto-scaling capabilities
-- Implemented CI/CD pipeline reducing deployment time by 60%
-- Achieved 99.9% uptime with load balancing and fault tolerance
-
-### 🤖 [AI-Powered Business Automation Suite](https://github.com/thezaynahmed/ai-automation)
-**Tech Stack:** Next.js, OpenAI API, AWS Lambda, DynamoDB
-- Developed intelligent workflow automation saving 15+ hours/week
-- Integrated multiple AI services for document processing and analysis
-- Deployed serverless architecture handling 10k+ requests/day
-
-### ☁️ [Infrastructure as Code Templates](https://github.com/thezaynahmed/iac-templates)
-**Tech Stack:** Terraform, AWS CloudFormation, Ansible
-- Created reusable infrastructure templates for rapid deployment
-- Standardized cloud environments across development and production
-- Reduced infrastructure setup time from days to minutes
-
----
-
-## 💼 Professional Experience
-
-### ☁️ **Cloud Solutions Architect** - Various Enterprise Clients
-*Designing and implementing scalable cloud infrastructure for businesses*
-- Architecting cloud-native applications and microservices architecture
-- Implementing DevOps best practices and automation workflows
-- Delivering full-stack applications with integrated AI capabilities
-
-### 👨‍🏫 **Lead Coding Instructor & Operations Manager** - Skill Samurai
-*Mentoring next-generation developers in modern web technologies and cloud computing*
-- Designed curriculum covering full-stack development and cloud fundamentals
-- Led international teams and managed operations across multiple locations
-- Trained 100+ students in modern web development and cloud technologies
-
----
-
-## ⏰ Meeting Deadlines & Delivering Solutions
-const deliverCloudSolution = (requirements) => {
-designArchitecture(requirements.specs);
-provisionInfrastructure("AWS");
-buildFullStackApp(requirements.features);
-setupCICD("GitHub Actions");
-implementMonitoring("CloudWatch");
-deployToProduction();
-return "Mission Accomplished! 🚀";
-};
-
 
 ---
 
@@ -168,78 +134,6 @@ return "Mission Accomplished! 🚀";
 - **Communication:** Translating technical concepts to stakeholders
 - **Time Management:** Meeting deadlines while maintaining code quality
 - **Adaptability:** Quickly learning new technologies and industry trends
-
----
-
-## 💻 Complete Tech Arsenal
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-
----
-
-## 💡 Fun Facts & Interests
-
-const zainAhmed = {
-location: "Toronto, Canada 🇨🇦",
-role: "Cloud Solutions Architect & Full-Stack Developer",
-interests: ["Space Exploration 🚀", "Cricket 🏏", "Latest Tech Gadgets 📱"],
-currentFocus: "Azure Certifications & Enterprise Cloud Solutions",
-lifePhilosophy: "Building the future, one deployment at a time ☁️"
-};
-
-
-- 🌌 **Space Enthusiast** - Always curious about the cosmos and technology's role in exploration
-- 🏏 **Sports Lover** - Cricket, Football, Swimming, and staying active
-- 📖 **Continuous Learner** - IT magazines, tech blogs, cloud computing trends
-- 🎯 **Goal-Oriented** - Delivering solutions that exceed client expectations
-- 🎮 **Tech Gadget Explorer** - Always trying out the latest innovations
-
----
-
-## 📈 Current Focus & Goals
-
-🎯 **2024-2025 Roadmap:**
-- ☁️ Achieving Microsoft Azure certifications (AZ-104, MS-102)
-- 🚀 Expanding cloud architecture expertise across multi-cloud environments
-- 📚 Contributing to open-source cloud automation tools
-- 👨‍🏫 Mentoring aspiring cloud engineers and full-stack developers
-- 🤖 Exploring advanced AI/ML integration in cloud architectures
-
----
-
-## 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thezaynahmed&show_icons=true&theme=bear" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thezaynahmed&theme=dark&hide_border=true" width="48%">
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thezaynahmed)](https://github.com/thezaynahmed/github-profile-trophy)
 
 ---
 
