@@ -1,10 +1,12 @@
+<a href="https://zainahmed.net"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/zainahmed.png" alt="Zain Ahmed' Website"/></a>
+
 <div align="center">
 
 ### DevOps Engineer | Cloud & Platform Engineer (AWS, Azure, GCP) | Full-Stack Developer
 *Building resilient, secure, and efficient developer platforms*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/thezainahmed/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainahmed.net)
 
 </div>
