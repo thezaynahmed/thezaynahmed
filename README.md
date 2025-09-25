@@ -1,5 +1,3 @@
-<a href="https://zainahmed.net"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/zainahmed.png" alt="Zain Ahmed' Website"/></a>
-
 <div align="center">
 
 ### DevOps Engineer | Cloud & Platform Engineer (AWS, Azure, GCP) | Full-Stack Developer
