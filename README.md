@@ -5,7 +5,7 @@
 ### Cloud Solutions Architect | Full-Stack Developer | DevOps Engineer
 *Transforming ideas into scalable cloud-native solutions*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainahmed.net)
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Profile Summary  
+## 👨‍💻 Profile Summary  
 Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer** with 6+ years of experience building scalable, secure, and high-performance applications. Specialized in **Cloud & DevOps**, with deep expertise in **AWS, CI/CD pipelines, containerization, and infrastructure automation**. Proven track record of bridging development and operations to streamline deployments, reduce downtime by 40%, and enhance system reliability. Strong foundation in **modern web frameworks** and **AI-powered solutions**, enabling delivery of innovative cloud-native applications that drive business growth.
 
 ---
@@ -88,10 +88,11 @@ Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **AWS Certified Solutions Architect** - Professional
-- ☁️ **Microsoft Azure Administrator** (AZ-104) - *In Progress*
-- 🔧 **Microsoft 365 Certified** (MS-102) - *In Progress*
-- 🚀 **Kubernetes Administrator** (CKA) - *Planned*
+- 🥇 **AWS Certified DevOps Engineer** - Professional
+- ☁️ **AWS Certified Solutions Architect** - Associate
+- 🔧 **Microsoft Azure Administrator** (AZ-104) - *In Progress*
+- 🚀 **Microsoft 365 Certified** (MS-102) - *In Progress*
+- ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
 - 📈 **40% deployment time reduction** through CI/CD optimization
 - 🔒 **99.9% uptime** achieved for production applications
 - 💼 **6+ years** of full-stack development and cloud architecture experience
@@ -137,17 +138,16 @@ Passionate and results-driven **Cloud Solutions Architect & Full-Stack Developer
 ---
 
 ## ⏰ Meeting Deadlines & Delivering Solutions
-```
 const deliverCloudSolution = (requirements) => {
-  designArchitecture(requirements.specs);
-  provisionInfrastructure("AWS");
-  buildFullStackApp(requirements.features);
-  setupCICD("GitHub Actions");
-  implementMonitoring("CloudWatch");
-  deployToProduction();
-  return "Mission Accomplished! 🚀";
+designArchitecture(requirements.specs);
+provisionInfrastructure("AWS");
+buildFullStackApp(requirements.features);
+setupCICD("GitHub Actions");
+implementMonitoring("CloudWatch");
+deployToProduction();
+return "Mission Accomplished! 🚀";
 };
-```
+
 
 ---
 
@@ -204,15 +204,14 @@ const deliverCloudSolution = (requirements) => {
 
 ## 💡 Fun Facts & Interests
 
-```
 const zainAhmed = {
-  location: "Toronto, Canada 🇨🇦",
-  role: "Cloud Solutions Architect & Full-Stack Developer",
-  interests: ["Space Exploration 🚀", "Cricket 🏏", "Latest Tech Gadgets 📱"],
-  currentFocus: "Azure Certifications & Enterprise Cloud Solutions",
-  lifePhilosophy: "Building the future, one deployment at a time ☁️"
+location: "Toronto, Canada 🇨🇦",
+role: "Cloud Solutions Architect & Full-Stack Developer",
+interests: ["Space Exploration 🚀", "Cricket 🏏", "Latest Tech Gadgets 📱"],
+currentFocus: "Azure Certifications & Enterprise Cloud Solutions",
+lifePhilosophy: "Building the future, one deployment at a time ☁️"
 };
-```
+
 
 - 🌌 **Space Enthusiast** - Always curious about the cosmos and technology's role in exploration
 - 🏏 **Sports Lover** - Cricket, Football, Swimming, and staying active
@@ -250,8 +249,8 @@ const zainAhmed = {
 
 **Always excited to discuss cloud architecture, DevOps automation, and innovative full-stack solutions!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.ahm3d@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainahmed.net)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
 
