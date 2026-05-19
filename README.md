@@ -1,30 +1,30 @@
 # Zain Ahmed
 
-**Cloud & Platform Engineer | Distributed Systems & Automation**
+**Senior Software and Systems Engineer | SRE | Multi Cloud Architecture | 4x Certified**
 
 [LinkedIn](https://linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
-Hands-on systems engineer working at the intersection of large-scale software development, cloud infrastructure, and MLOps. The core focus is on building distributed applications that scale seamlessly, automating complex infrastructure, and designing reliable machine learning deployment pipelines while cutting operational costs by 30 to 40 percent.
+Hands on systems engineer working at the intersection of large scale software development, cloud infrastructure, and MLOps. The core focus is on building distributed applications that scale seamlessly, automating complex infrastructure, and designing reliable machine learning deployment pipelines while cutting operational costs by 30 to 40 percent.
 
-Over the past seven years, my work has centred on managing multi-cloud environments across AWS, Azure, and GCP while maintaining strict 99.9 percent SLA uptime. I treat infrastructure strictly as software, writing clean code to compress deployment cycles from weeks down to hours. Whether it is writing production backend services, tuning Kubernetes clusters, or scaling ML modelling pipelines, the goal is always balancing performance with tight financial efficiency.
+Over the past seven years, my work has centred on managing multi cloud environments across AWS, Azure, and GCP while maintaining strict 99.9 percent SLA uptime. I treat infrastructure strictly as software, writing clean code to compress deployment cycles from weeks down to hours. Whether it is writing production backend services, tuning Kubernetes clusters, or scaling ML modelling pipelines, the goal is always balancing performance with tight financial efficiency.
 
-Currently focusing on advanced serverless architectures, edge computing, and AI-driven automation, while finishing up the GCP Associate Cloud Engineer and Professional Machine Learning Engineer certifications. I share technical notes, tutorials, and architecture breakdowns over at [zainahmed.net](https://zainahmed.net). Based in the Greater Toronto Area.
+𝗖𝗢𝗥𝗘 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗜𝗘𝗦
+ ➤ Software Engineering and Architecture (Python, JavaScript, Java)
+ ➤ Cloud Infrastructure and Scalability (AWS, GCP, Azure)
+ ➤ Containerization and Orchestration (Docker, Kubernetes, KEDA, GKE, AKS, EKS)
+ ➤ MLOps and Machine Learning Pipelines (Model Deployment, Data Engineering)
+ ➤ DevOps Automation and IaC (Terraform, CloudFormation, Google Cloud Build)
 
-## Core Competencies
+𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗧𝗔𝗖𝗞
+ ➤ Languages: Python, JavaScript, Java, Bash, PowerShell
+ ➤ Containers: Docker, Kubernetes, KEDA, GKE, AKS, EKS
+ ➤ Automation: Terraform, Ansible, Google Cloud Deployment Manager
+ ➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Stackdriver
+ ➤ Cloud and ML: Cloud Run, Lambda, Cloud Functions, Compute Engine, BigQuery
 
-* **Software Engineering & Architecture:** Python, JavaScript, Java
-* **Cloud Infrastructure & Scalability:** AWS, GCP, Azure
-* **Containerization & Orchestration:** Docker, Kubernetes, KEDA, GKE, AKS, EKS
-* **MLOps & Machine Learning Pipelines:** Model Deployment, Data Engineering
-* **DevOps Automation & IaC:** Terraform, CloudFormation, Google Cloud Build
+Currently focusing on advanced serverless architectures, edge computing, and AI driven automation. I share technical notes, tutorials, and architecture breakdowns over at [zainahmed.net](https://zainahmed.net).
 
-## Technical Stack
-
-* **Languages:** Python, JavaScript, Java, Bash, PowerShell
-* **Containers:** Docker, Kubernetes, KEDA, GKE, AKS, EKS
-* **Automation:** Terraform, Ansible, Google Cloud Deployment Manager
-* **Observability:** Prometheus, Grafana, Datadog, CloudWatch, Stackdriver
-* **Cloud & ML:** Cloud Run, Lambda, Cloud Functions, Compute Engine, BigQuery
+Based in the Greater Toronto Area.
 
 ## AI Integration & Vertex AI
 I integrate machine learning capabilities into production systems securely and efficiently.
