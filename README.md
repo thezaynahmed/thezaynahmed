@@ -28,6 +28,66 @@ I integrate machine learning capabilities into production systems securely and e
 * **API Integration:** OpenAI, Anthropic, Google AI
 * **Applied AI:** Intelligent chatbots, automated data processing pipelines, predictive analytics
 
+## System Architecture Overview
+
+Here is a high level look at how I typically design scalable, event driven cloud architectures that integrate machine learning.
+
+```mermaid
+graph TD
+    %% Styling
+    classDef infra fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef data fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef compute fill:#e8f5e9,stroke:#388e3c,stroke-width:2px;
+    classDef ai fill:#fff3e0,stroke:#f57c00,stroke-width:2px;
+    classDef observe fill:#fce4ec,stroke:#c2185b,stroke-width:2px;
+
+    %% Components
+    subgraph "Infrastructure as Code (Terraform)"
+        direction TB
+        GitOps[GitOps / GitHub Actions] --> |Provisions| CloudEnv[Cloud Environments]
+    end
+
+    subgraph "Data & Event Streaming"
+        direction LR
+        Clients[Client Devices] -->|Events| Kafka[Apache Kafka]
+        Kafka -->|Streams| DataLake[(BigQuery / Cloud Storage)]
+    end
+
+    subgraph "Compute & Orchestration (Kubernetes)"
+        direction TB
+        Ingress[API Gateway] --> Microservices[Node.js / Python Services]
+        Microservices <--> Redis[(Redis Cache)]
+        KEDA[KEDA Autoscaler] -.->|Metrics| Microservices
+        Kafka -.->|Triggers| KEDA
+    end
+
+    subgraph "Vertex AI Platform"
+        direction TB
+        DataLake -->|Training Data| AutoML[AutoML / Custom Training]
+        AutoML -->|Model Weights| ModelRegistry[Model Garden]
+        ModelRegistry -->|Serves| Agent[Gemini AI Agents]
+    end
+
+    subgraph "Observability & Security"
+        direction LR
+        Otel[OpenTelemetry] --> Prometheus[Prometheus & Grafana]
+        IAM[Zero Trust & IAM]
+    end
+
+    %% Connections
+    CloudEnv -.->|Manages| Kafka
+    CloudEnv -.->|Manages| Microservices
+    Microservices -->|Inference Requests| Agent
+    Microservices -->|Emits Metrics| Otel
+
+    %% Apply Classes
+    class GitOps,CloudEnv infra;
+    class Kafka,DataLake,Redis data;
+    class Ingress,Microservices,KEDA compute;
+    class AutoML,ModelRegistry,Agent ai;
+    class Otel,Prometheus,IAM observe;
+```
+
 ## Engineering Philosophy
 
 * **Infrastructure as Code:** Everything from networks to monitoring dashboards should be version controlled.
