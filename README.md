@@ -92,9 +92,10 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **AWS Certified DevOps Engineer** - Professional
-- ☁️ **AWS Certified Solutions Architect** - Associate
-- 🔧 **Microsoft Azure Administrator** (AZ-104) - *In Progress*
+- 🥇 [**AWS Certified DevOps Engineer** - Professional](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
+- ☁️ [**AWS Certified Solutions Architect** - Associate](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
+- 🔧 [**Microsoft Certified: Azure Administrator Associate** (AZ-104)](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- ☁️ [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
 - ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
 - 📈 **National First Runner-Up** - Contest-Azm 2020 Mobile App Development
 - 🔒 **99.9% uptime** engineered for a cloud-native LMS application supporting thousands of users
