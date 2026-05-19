@@ -52,13 +52,13 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 ## 🌟 Expertise & Specializations
 
 ### ☁️ Cloud Architecture & DevOps
-- **GCP Services (Primary Focus):** GKE (Google Kubernetes Engine), Compute Engine, Cloud Storage, Cloud Run, Cloud SQL, BigQuery, VPC
+- **GCP Services:** GKE (Google Kubernetes Engine), Compute Engine, Cloud Storage, Cloud Run, Cloud SQL, BigQuery, VPC
 - **AWS Services:** EKS (Elastic Kubernetes Service), EC2, S3, Lambda, RDS, CloudFormation, ECS
 - **Azure Services:** AKS (Azure Kubernetes Service), Virtual Machines, Azure Functions, Blob Storage
 - **Oracle Cloud (OCI):** OKE (Oracle Kubernetes Engine), Compute, Object Storage
 - **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
 - **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, Cloud Build, automated testing & deployment
-- **Containerization:** Docker, Kubernetes (GKE, EKS, AKS, OKE), Docker Compose, container orchestration & scaling
+- **Containerization & Kubernetes:** Docker, Kubernetes, Managed Clusters (GKE, AKS, EKS, OKE), KEDA (Kubernetes Event-driven Autoscaling), Docker Compose
 - **Monitoring & Observability:** Google Cloud Operations Suite (Stackdriver), CloudWatch, ELK Stack, Prometheus, Grafana
 - **Security:** GCP IAM, AWS IAM, VPC configurations, secrets management, compliance frameworks
 
@@ -92,9 +92,9 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true)
 
