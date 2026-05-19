@@ -19,8 +19,10 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 ## 🚀 Core Technology Stack
 
 ### ☁️ Cloud & DevOps (Primary Focus)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
@@ -50,12 +52,15 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 ## 🌟 Expertise & Specializations
 
 ### ☁️ Cloud Architecture & DevOps
-- **AWS Services:** EC2, S3, Lambda, RDS, CloudFormation, ECS, EKS, API Gateway, CloudFront, Elastic Beanstalk
-- **Infrastructure as Code:** Terraform, AWS CDK, CloudFormation templates
-- **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, AWS CodePipeline, automated testing & deployment
-- **Containerization:** Docker, Kubernetes, Docker Compose, container orchestration & scaling
-- **Monitoring & Observability:** CloudWatch, ELK Stack, Prometheus, Grafana, application performance monitoring
-- **Security:** IAM policies, VPC configurations, secrets management, compliance frameworks
+- **GCP Services (Primary Focus):** GKE (Google Kubernetes Engine), Compute Engine, Cloud Storage, Cloud Run, Cloud SQL, BigQuery, VPC
+- **AWS Services:** EKS (Elastic Kubernetes Service), EC2, S3, Lambda, RDS, CloudFormation, ECS
+- **Azure Services:** AKS (Azure Kubernetes Service), Virtual Machines, Azure Functions, Blob Storage
+- **Oracle Cloud (OCI):** OKE (Oracle Kubernetes Engine), Compute, Object Storage
+- **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
+- **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, Cloud Build, automated testing & deployment
+- **Containerization:** Docker, Kubernetes (GKE, EKS, AKS, OKE), Docker Compose, container orchestration & scaling
+- **Monitoring & Observability:** Google Cloud Operations Suite (Stackdriver), CloudWatch, ELK Stack, Prometheus, Grafana
+- **Security:** GCP IAM, AWS IAM, VPC configurations, secrets management, compliance frameworks
 
 ### 💻 Full-Stack Development
 - **Frontend:** React.js, Next.js, Vue.js, HTML5, CSS3/SCSS, responsive design, progressive web apps
@@ -70,28 +75,9 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 
 ---
 
-## 💼 Professional Experience
-
-### **Solutions Architect / DevOps Engineer** - PivotalBuild (Remote)
-*Architected and automated multi-cloud infrastructure and modernized CI/CD pipelines to drive efficiency.*
-- Cut deployment failures by 75% and reduced release cycles from days to hours using Jenkins, Docker, and Kubernetes.
-- Decreased environment setup time by 90% by creating 15+ reusable Terraform modules for AWS and Azure.
-- Improved system visibility and reduced MTTD for production issues by 60% with a Prometheus and Grafana stack.
-
-### **DevOps Consultant (Part-Time)** - MapleGenix
-*Designed secure, container-based architectures and automated deployment processes for clients.*
-- Improved application portability and scalability by designing a Docker and Kubernetes-based architecture.
-- Demonstrated a 10x improvement over manual processes by developing a proof-of-concept CI/CD pipeline with GitHub Actions.
-
-### **Coding Instructor** - Skill Samurai
-*Mentored the next generation of developers in modern web technologies and cloud computing.*
-- Developed engaging, AI-enhanced coding curricula for youth (ages 8-16).
-- Led interactive coding workshops for 25+ students, teaching programming logic and collaborative development.
-
----
-
 ## 🏆 Certifications & Achievements
 
+- ☁️ **Google Cloud Certified: Associate Cloud Engineer** - *In Progress*
 - 🥇 [**AWS Certified DevOps Engineer** - Professional](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
 - ☁️ [**AWS Certified Solutions Architect** - Associate](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
 - 🔧 [**Microsoft Certified: Azure Administrator Associate** (AZ-104)](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
