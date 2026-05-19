@@ -65,13 +65,23 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 ### 💻 Full-Stack Development
 - **Frontend:** React.js, Next.js, Vue.js, HTML5, CSS3/SCSS, responsive design, progressive web apps
 - **Backend:** Node.js, Express.js, RESTful APIs, GraphQL, microservices architecture, serverless functions
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, database optimization
+- **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, database optimization
+- **Message Brokers & Streaming:** Apache Kafka, Google Cloud Pub/Sub, AWS Kinesis
 - **Authentication:** OAuth, JWT, Auth0, AWS Cognito, secure authentication systems
 
 ### 🤖 AI Integration & Automation
 - **API Integration:** OpenAI, Anthropic, Google AI, custom ML model deployment
 - **Automation:** Intelligent chatbots, data processing pipelines, workflow automation
 - **AI-Powered Applications:** Recommendation systems, natural language processing, predictive analytics
+
+### 🧠 Vertex AI & Gemini Enterprise Platform
+Vertex AI (now part of the Gemini Enterprise Agent Platform) is Google Cloud's unified machine learning and generative AI platform. It allows developers and data scientists to build, train, deploy, and scale enterprise-ready AI agents and machine learning models in a secure environment.
+
+**Key Platform Components:**
+- **Model Garden:** A central hub to discover, test, customize, and deploy Google’s advanced models (like Gemini) and select open-source models.
+- **Vertex AI Studio:** A developer workspace designed for rapid prototyping, prompt engineering, and fine-tuning models for specific business tasks.
+- **AutoML & Custom Training:** Provides tools for users with limited ML experience (AutoML) as well as advanced training capabilities for experienced data scientists requiring full control over architecture.
+- **Agent Platform:** Specialized toolkits built to orchestrate complex reasoning, autonomous coding, and multi-step workflows.
 
 ---
 
