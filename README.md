@@ -1,158 +1,60 @@
-<div align="center">
+# Zain Ahmed
 
-### DevOps Engineer | Cloud & Platform Engineer (AWS, Azure, GCP) | Full-Stack Developer
-*Building resilient, secure, and efficient developer platforms*
+**Cloud & Platform Engineer | Distributed Systems & Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/thezainahmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainahmed.net)
+[LinkedIn](https://linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
-</div>
-
----
-
-## 👨‍💻 Profile Summary
 I am a certified DevOps engineer focused on designing scalable cloud setups across AWS, Azure, and GCP. I spend a lot of time automating CI/CD pipelines to keep things running smoothly. So far, I have been able to cut deployment failures by 75 percent and speed up release cycles from a matter of days to just a few hours. I rely heavily on tools like Terraform and Kubernetes to keep systems observable and reliable. I also work as a full stack developer. This helps me bridge the gap between building software and actually running it in production. My main goal is always to deliver solid, high performance applications that can scale.
 
----
+## Core Engineering Domains
 
-## 🚀 Core Technology Stack
+### Cloud Infrastructure & Orchestration
+My primary focus is on building resilient platforms using modern cloud native primitives.
+* **Platforms:** GCP (Primary), AWS, Azure, Oracle Cloud
+* **Containerization & Kubernetes:** Docker, Kubernetes, Managed Clusters (GKE, EKS, AKS, OKE), KEDA 
+* **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
+* **CI/CD:** GitHub Actions, GitLab CI, Jenkins, Cloud Build
 
-### ☁️ Cloud & DevOps (Primary Focus)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+### Backend Systems & Observability
+I design systems that are highly available and easy to monitor.
+* **Languages & Runtimes:** Node.js, Python, TypeScript
+* **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+* **Messaging & Streaming:** Apache Kafka, Google Cloud Pub/Sub, AWS Kinesis
+* **Observability:** Google Cloud Operations Suite, CloudWatch, Prometheus, Grafana, OpenTelemetry
 
-### 💻 Full-Stack Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### AI Integration & Vertex AI
+I integrate machine learning capabilities into production systems securely and efficiently.
+* **Vertex AI & Gemini:** Leveraging Google Cloud's unified ML platform for enterprise AI agents. I work with Model Garden, Vertex AI Studio, and AutoML for custom training and orchestrating complex reasoning workflows.
+* **API Integration:** OpenAI, Anthropic, Google AI
+* **Applied AI:** Intelligent chatbots, automated data processing pipelines, predictive analytics
 
-### 🤖 AI & Data
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+## Engineering Philosophy
 
----
+* **Infrastructure as Code:** Everything from networks to monitoring dashboards should be version controlled.
+* **Observability first:** If you cannot measure it, you cannot manage it. I instrument early and often.
+* **Security by design:** Implementing zero trust principles, IAM least privilege, and automated compliance checks.
+* **Developer velocity:** Building internal developer platforms that reduce cognitive load and speed up shipping.
 
-## 🌟 Expertise & Specializations
+## Certifications & Achievements
 
-### ☁️ Cloud Architecture & DevOps
-- **GCP Services:** GKE (Google Kubernetes Engine), Compute Engine, Cloud Storage, Cloud Run, Cloud SQL, BigQuery, VPC
-- **AWS Services:** EKS (Elastic Kubernetes Service), EC2, S3, Lambda, RDS, CloudFormation, ECS
-- **Azure Services:** AKS (Azure Kubernetes Service), Virtual Machines, Azure Functions, Blob Storage
-- **Oracle Cloud (OCI):** OKE (Oracle Kubernetes Engine), Compute, Object Storage
-- **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
-- **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, Cloud Build, automated testing and deployment
-- **Containerization & Kubernetes:** Docker, Kubernetes, Managed Clusters (GKE, AKS, EKS, OKE), KEDA (Kubernetes Event-driven Autoscaling), Docker Compose
-- **Monitoring & Observability:** Google Cloud Operations Suite (Stackdriver), CloudWatch, ELK Stack, Prometheus, Grafana
-- **Security:** GCP IAM, AWS IAM, VPC configurations, secrets management, compliance frameworks
+* **Google Cloud Certified: Associate Cloud Engineer** (In Progress)
+* [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
+* [**AWS Certified Solutions Architect (Associate)**](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
+* [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+* [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
+* **Kubernetes Administrator (CKA)** (Planned)
+* **National First Runner Up (Contest-Azm 2020 Mobile App Development)**
+* **99.9% uptime** engineered for a cloud native LMS application supporting thousands of users
 
-### 💻 Full-Stack Development
-- **Frontend:** React.js, Next.js, Vue.js, HTML5, CSS3/SCSS, responsive design, progressive web apps
-- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL, microservices architecture, serverless functions
-- **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, database optimization
-- **Message Brokers & Streaming:** Apache Kafka, Google Cloud Pub/Sub, AWS Kinesis
-- **Authentication:** OAuth, JWT, Auth0, AWS Cognito, secure authentication systems
-
-### 🤖 AI Integration & Automation
-- **API Integration:** OpenAI, Anthropic, Google AI, custom ML model deployment
-- **Automation:** Intelligent chatbots, data processing pipelines, workflow automation
-- **AI-Powered Applications:** Recommendation systems, natural language processing, predictive analytics
-
-### 🧠 Vertex AI & Gemini Enterprise Platform
-Vertex AI is Google Cloud's unified machine learning and generative AI platform. It is now part of the Gemini Enterprise Agent Platform. It allows developers and data scientists to build, train, deploy, and scale AI agents and machine learning models in a secure environment.
-
-**Key Platform Components:**
-- **Model Garden:** A central hub to discover, test, customize, and deploy advanced models from Google (like Gemini) and select open source models.
-- **Vertex AI Studio:** A developer workspace designed for rapid prototyping, prompt engineering, and fine tuning models for specific business tasks.
-- **AutoML & Custom Training:** This provides tools for users with limited ML experience (AutoML) alongside advanced training options for data scientists needing full control over their architecture.
-- **Agent Platform:** Specialized toolkits built to manage complex reasoning, autonomous coding, and multi step workflows.
-
----
-
-## 🏆 Certifications & Achievements
-
-- ☁️ **Google Cloud Certified: Associate Cloud Engineer** (In Progress)
-- 🥇 [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
-- ☁️ [**AWS Certified Solutions Architect (Associate)**](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
-- 🔧 [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- ☁️ [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
-- ⚙️ **Kubernetes Administrator (CKA)** (Planned)
-- 📈 **National First Runner Up (Contest-Azm 2020 Mobile App Development)**
-- 🔒 **99.9% uptime** engineered for a cloud native LMS application supporting thousands of users
-
----
-
-## 📊 GitHub Analytics
+## Analytics
 
 <div align="center">
-
-![GitHub Stats](https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Learning & Exploring
-
-- 🔍 **Advanced Kubernetes** orchestration and service mesh (Istio)
-- 🛡️ **Cloud Security** best practices and compliance frameworks
-- 🤖 **MLOps** pipelines and AI model deployment at scale
-- ⚡ **Serverless** architectures and edge computing optimization
-- 📊 **Observability** with OpenTelemetry and distributed tracing
-
----
-
-## 🌟 Core Competencies & Soft Skills
-
-- **Leadership:** Coordinating cross functional teams and mentoring developers
-- **Critical Thinking:** Logical problem solving and architectural decision making
-- **Communication:** Explaining technical concepts to stakeholders in plain English
-- **Time Management:** Meeting deadlines while maintaining high code quality
-- **Adaptability:** Quickly learning new technologies and industry trends
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-**I am always happy to chat about cloud architecture, DevOps automation, and building solid full stack apps.**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.ahm3d@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainahmed.net)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Code with passion, deploy with precision, scale with purpose"
-
-<a href="https://app.daily.dev/thezaynahmed"><img src="https://github.com/thezaynahmed/thezaynahmed/blob/main/devcard.svg" width="400" alt="Zayn's Dev Card"/></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=thezaynahmed&color=blue&style=flat-square)
-
+  <img src="https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <a href="https://app.daily.dev/thezaynahmed"><img src="https://github.com/thezaynahmed/thezaynahmed/blob/main/devcard.svg" width="400" alt="Zayn's Dev Card"/></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=thezaynahmed&color=blue&style=flat-square" alt="Profile Views" />
 </div>
