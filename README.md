@@ -4,25 +4,29 @@
 
 [LinkedIn](https://linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
-I am a certified DevOps engineer focused on designing scalable cloud setups across AWS, Azure, and GCP. I spend a lot of time automating CI/CD pipelines to keep things running smoothly. So far, I have been able to cut deployment failures by 75 percent and speed up release cycles from a matter of days to just a few hours. I rely heavily on tools like Terraform and Kubernetes to keep systems observable and reliable. I also work as a full stack developer. This helps me bridge the gap between building software and actually running it in production. My main goal is always to deliver solid, high performance applications that can scale.
+Hands-on systems engineer working at the intersection of large-scale software development, cloud infrastructure, and MLOps. The core focus is on building distributed applications that scale seamlessly, automating complex infrastructure, and designing reliable machine learning deployment pipelines while cutting operational costs by 30 to 40 percent.
 
-## Core Engineering Domains
+Over the past seven years, my work has centred on managing multi-cloud environments across AWS, Azure, and GCP while maintaining strict 99.9 percent SLA uptime. I treat infrastructure strictly as software, writing clean code to compress deployment cycles from weeks down to hours. Whether it is writing production backend services, tuning Kubernetes clusters, or scaling ML modelling pipelines, the goal is always balancing performance with tight financial efficiency.
 
-### Cloud Infrastructure & Orchestration
-My primary focus is on building resilient platforms using modern cloud native primitives.
-* **Platforms:** GCP (Primary), AWS, Azure, Oracle Cloud
-* **Containerization & Kubernetes:** Docker, Kubernetes, Managed Clusters (GKE, EKS, AKS, OKE), KEDA 
-* **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
-* **CI/CD:** GitHub Actions, GitLab CI, Jenkins, Cloud Build
+Currently focusing on advanced serverless architectures, edge computing, and AI-driven automation, while finishing up the GCP Associate Cloud Engineer and Professional Machine Learning Engineer certifications. I share technical notes, tutorials, and architecture breakdowns over at [zainahmed.net](https://zainahmed.net). Based in the Greater Toronto Area.
 
-### Backend Systems & Observability
-I design systems that are highly available and easy to monitor.
-* **Languages & Runtimes:** Node.js, Python, TypeScript
-* **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
-* **Messaging & Streaming:** Apache Kafka, Google Cloud Pub/Sub, AWS Kinesis
-* **Observability:** Google Cloud Operations Suite, CloudWatch, Prometheus, Grafana, OpenTelemetry
+## Core Competencies
 
-### AI Integration & Vertex AI
+* **Software Engineering & Architecture:** Python, JavaScript, Java
+* **Cloud Infrastructure & Scalability:** AWS, GCP, Azure
+* **Containerization & Orchestration:** Docker, Kubernetes, KEDA, GKE, AKS, EKS
+* **MLOps & Machine Learning Pipelines:** Model Deployment, Data Engineering
+* **DevOps Automation & IaC:** Terraform, CloudFormation, Google Cloud Build
+
+## Technical Stack
+
+* **Languages:** Python, JavaScript, Java, Bash, PowerShell
+* **Containers:** Docker, Kubernetes, KEDA, GKE, AKS, EKS
+* **Automation:** Terraform, Ansible, Google Cloud Deployment Manager
+* **Observability:** Prometheus, Grafana, Datadog, CloudWatch, Stackdriver
+* **Cloud & ML:** Cloud Run, Lambda, Cloud Functions, Compute Engine, BigQuery
+
+## AI Integration & Vertex AI
 I integrate machine learning capabilities into production systems securely and efficiently.
 * **Vertex AI & Gemini:** Leveraging Google Cloud's unified ML platform for enterprise AI agents. I work with Model Garden, Vertex AI Studio, and AutoML for custom training and orchestrating complex reasoning workflows.
 * **API Integration:** OpenAI, Anthropic, Google AI
