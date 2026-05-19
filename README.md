@@ -11,8 +11,8 @@
 
 ---
 
-## 👨‍💻 Profile Summary  
-Certified **DevOps Engineer** with expertise in architecting scalable cloud infrastructure across **AWS, Azure, and GCP** and orchestrating automated CI/CD pipelines. Proven ability to reduce deployment failures by 75%, accelerate release cycles from days to hours, and enhance system observability using **Terraform, Kubernetes, and modern monitoring stacks**. As a **Full-Stack Developer**, I bridge the gap between development and operations to deliver innovative and high-performance cloud-native applications.
+## 👨‍💻 Profile Summary
+I am a certified DevOps engineer focused on designing scalable cloud setups across AWS, Azure, and GCP. I spend a lot of time automating CI/CD pipelines to keep things running smoothly. So far, I have been able to cut deployment failures by 75 percent and speed up release cycles from a matter of days to just a few hours. I rely heavily on tools like Terraform and Kubernetes to keep systems observable and reliable. I also work as a full stack developer. This helps me bridge the gap between building software and actually running it in production. My main goal is always to deliver solid, high performance applications that can scale.
 
 ---
 
@@ -57,7 +57,7 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 - **Azure Services:** AKS (Azure Kubernetes Service), Virtual Machines, Azure Functions, Blob Storage
 - **Oracle Cloud (OCI):** OKE (Oracle Kubernetes Engine), Compute, Object Storage
 - **Infrastructure as Code:** Terraform, GCP Deployment Manager, AWS CDK, CloudFormation
-- **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, Cloud Build, automated testing & deployment
+- **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins, Cloud Build, automated testing and deployment
 - **Containerization & Kubernetes:** Docker, Kubernetes, Managed Clusters (GKE, AKS, EKS, OKE), KEDA (Kubernetes Event-driven Autoscaling), Docker Compose
 - **Monitoring & Observability:** Google Cloud Operations Suite (Stackdriver), CloudWatch, ELK Stack, Prometheus, Grafana
 - **Security:** GCP IAM, AWS IAM, VPC configurations, secrets management, compliance frameworks
@@ -75,26 +75,26 @@ Certified **DevOps Engineer** with expertise in architecting scalable cloud infr
 - **AI-Powered Applications:** Recommendation systems, natural language processing, predictive analytics
 
 ### 🧠 Vertex AI & Gemini Enterprise Platform
-Vertex AI (now part of the Gemini Enterprise Agent Platform) is Google Cloud's unified machine learning and generative AI platform. It allows developers and data scientists to build, train, deploy, and scale enterprise-ready AI agents and machine learning models in a secure environment.
+Vertex AI is Google Cloud's unified machine learning and generative AI platform. It is now part of the Gemini Enterprise Agent Platform. It allows developers and data scientists to build, train, deploy, and scale AI agents and machine learning models in a secure environment.
 
 **Key Platform Components:**
-- **Model Garden:** A central hub to discover, test, customize, and deploy Google’s advanced models (like Gemini) and select open-source models.
-- **Vertex AI Studio:** A developer workspace designed for rapid prototyping, prompt engineering, and fine-tuning models for specific business tasks.
-- **AutoML & Custom Training:** Provides tools for users with limited ML experience (AutoML) as well as advanced training capabilities for experienced data scientists requiring full control over architecture.
-- **Agent Platform:** Specialized toolkits built to orchestrate complex reasoning, autonomous coding, and multi-step workflows.
+- **Model Garden:** A central hub to discover, test, customize, and deploy advanced models from Google (like Gemini) and select open source models.
+- **Vertex AI Studio:** A developer workspace designed for rapid prototyping, prompt engineering, and fine tuning models for specific business tasks.
+- **AutoML & Custom Training:** This provides tools for users with limited ML experience (AutoML) alongside advanced training options for data scientists needing full control over their architecture.
+- **Agent Platform:** Specialized toolkits built to manage complex reasoning, autonomous coding, and multi step workflows.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **Google Cloud Certified: Associate Cloud Engineer** - *In Progress*
-- 🥇 [**AWS Certified DevOps Engineer** - Professional](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
-- ☁️ [**AWS Certified Solutions Architect** - Associate](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
-- 🔧 [**Microsoft Certified: Azure Administrator Associate** (AZ-104)](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- ☁️ **Google Cloud Certified: Associate Cloud Engineer** (In Progress)
+- 🥇 [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
+- ☁️ [**AWS Certified Solutions Architect (Associate)**](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
+- 🔧 [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - ☁️ [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
-- ⚙️ **Kubernetes Administrator** (CKA) - *Planned*
-- 📈 **National First Runner-Up** - Contest-Azm 2020 Mobile App Development
-- 🔒 **99.9% uptime** engineered for a cloud-native LMS application supporting thousands of users
+- ⚙️ **Kubernetes Administrator (CKA)** (Planned)
+- 📈 **National First Runner Up (Contest-Azm 2020 Mobile App Development)**
+- 🔒 **99.9% uptime** engineered for a cloud native LMS application supporting thousands of users
 
 ---
 
@@ -124,10 +124,10 @@ Vertex AI (now part of the Gemini Enterprise Agent Platform) is Google Cloud's u
 
 ## 🌟 Core Competencies & Soft Skills
 
-- **Leadership:** Coordinating cross-functional teams and mentoring developers
-- **Critical Thinking:** Logical problem-solving and architectural decision-making
-- **Communication:** Translating technical concepts to stakeholders
-- **Time Management:** Meeting deadlines while maintaining code quality
+- **Leadership:** Coordinating cross functional teams and mentoring developers
+- **Critical Thinking:** Logical problem solving and architectural decision making
+- **Communication:** Explaining technical concepts to stakeholders in plain English
+- **Time Management:** Meeting deadlines while maintaining high code quality
 - **Adaptability:** Quickly learning new technologies and industry trends
 
 ---
@@ -136,7 +136,7 @@ Vertex AI (now part of the Gemini Enterprise Agent Platform) is Google Cloud's u
 
 <div align="center">
 
-**Always excited to discuss cloud architecture, DevOps automation, and innovative full-stack solutions!**
+**I am always happy to chat about cloud architecture, DevOps automation, and building solid full stack apps.**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.ahm3d@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thezainahmed)
