@@ -1,6 +1,6 @@
 # Zain Ahmed
 
-**Senior Software and Platform Engineer | Multi-Cloud Architecture | MLOps and GenAI Infrastructure | 5x Certified**
+**Senior Software and Platform Engineer | Multi-Cloud Architecture | MLOps and GenAI Infrastructure | 6x Certified**
 
 [LinkedIn](https://linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
@@ -8,20 +8,22 @@ Senior Software and Platform Engineer building at the intersection of large-scal
 
 Seven years of hands-on experience managing production workloads across AWS, Azure, GCP, and OCI, consistently delivering 99.9 percent SLA uptime. I treat infrastructure as software: every network, cluster, and observability stack is version-controlled, tested, and deployed through automated pipelines. Whether the work is writing production backend services, right-sizing Kubernetes clusters, or scaling ML model-serving infrastructure, the objective is always maximizing developer velocity without sacrificing reliability or cost discipline.
 
-𝗖𝗢𝗥𝗘 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗜𝗘𝗦
- ➤ Platform Engineering and Internal Developer Platforms (IDPs, Self-Service Tooling, Golden Paths)
- ➤ Software Engineering and Architecture (Python, JavaScript, Java)
- ➤ Multi-Cloud Infrastructure (AWS, GCP, Azure, OCI)
- ➤ Container Infrastructure and Orchestration (Docker, Kubernetes, KEDA, GKE, AKS, EKS)
- ➤ MLOps, GenAI Infrastructure, and Data Pipelines
- ➤ DevOps Automation and IaC (Terraform, CloudFormation, Google Cloud Build)
+**𝗖𝗢𝗥𝗘 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗜𝗘𝗦**
 
-𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗧𝗔𝗖𝗞
- ➤ Languages: Python, JavaScript, Java, Bash, PowerShell
- ➤ Container Infrastructure: Docker, Kubernetes, KEDA, GKE, AKS, EKS, Cloud Run
- ➤ Platform and Automation: Terraform, Ansible, Backstage, Google Cloud Deployment Manager
- ➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Cloud Monitoring
- ➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Vertex AI, SageMaker
+➤ Platform Engineering and Internal Developer Platforms (IDPs, Self-Service Tooling, Golden Paths)<br>
+➤ Software Engineering and Architecture (Python, JavaScript, Java)<br>
+➤ Multi-Cloud Infrastructure (AWS, GCP, Azure, OCI)<br>
+➤ Container Infrastructure and Orchestration (Docker, Kubernetes, KEDA, GKE, AKS, EKS)<br>
+➤ MLOps, GenAI Infrastructure, and Data Pipelines<br>
+➤ DevOps Automation and IaC (Terraform, CloudFormation, Google Cloud Build)
+
+**𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗧𝗔𝗖𝗞**
+
+➤ Languages: Python, JavaScript, Java, Bash, PowerShell<br>
+➤ Container Infrastructure: Docker, Kubernetes, KEDA, GKE, AKS, EKS, Cloud Run<br>
+➤ Platform and Automation: Terraform, Ansible, Backstage, Google Cloud Deployment Manager<br>
+➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Cloud Monitoring<br>
+➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Vertex AI, SageMaker
 
 Currently focused on building paved-road developer platforms, advanced serverless architectures, and AI-driven infrastructure automation. I publish technical notes, architecture breakdowns, and platform engineering guides at [zainahmed.net](https://zainahmed.net).
 
@@ -45,7 +47,7 @@ I build production-grade ML and GenAI serving infrastructure with a focus on sec
 
 ## Certifications and Achievements
 
-* **Google Cloud Certified: Associate Cloud Engineer** (In Progress)
+* [**Google Cloud Certified: Associate Cloud Engineer**](https://www.credly.com/badges/baeb2fdc-7115-456e-a5e2-b87204910419/public_url)
 * [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
 * [**AWS Certified Solutions Architect (Associate)**](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
 * [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
