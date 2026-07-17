@@ -4,9 +4,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
-Senior Software and Platform Engineer building at the intersection of large-scale distributed systems, multi-cloud infrastructure, and production ML/GenAI pipelines. I design and ship Internal Developer Platforms (IDPs) that give engineering teams self-service access to compute, storage, and deployment tooling, cutting operational costs by 30 to 40 percent while compressing release cycles from weeks to hours.
+I build Internal Developer Platforms (IDPs) and manage infrastructure across AWS, Azure, GCP, and OCI. Most of what I do comes down to two things: giving engineering teams self-service access to compute and deployment tooling, and keeping the bill reasonable. That has typically meant 30 to 40 percent lower operational costs on the environments I own.
 
-Seven years of hands-on experience managing production workloads across AWS, Azure, GCP, and OCI, consistently delivering 99.9 percent SLA uptime. I treat infrastructure as software: every network, cluster, and observability stack is version-controlled, tested, and deployed through automated pipelines. Whether the work is writing production backend services, right-sizing Kubernetes clusters, or scaling ML model-serving infrastructure, the objective is always maximizing developer velocity without sacrificing reliability or cost discipline.
+Seven years in. I write infrastructure the same way I write backend services: version-controlled, tested, deployed through CI. Kubernetes clusters, ML model-serving, serverless workloads, it all goes through the same pipeline. The environments I run hold 99.9 percent SLA uptime, which mostly means I spend a lot of time on observability and capacity planning.
 
 **𝗖𝗢𝗥𝗘 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗜𝗘𝗦**
 
@@ -25,27 +25,19 @@ Seven years of hands-on experience managing production workloads across AWS, Azu
 ➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Cloud Monitoring<br>
 ➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Vertex AI, SageMaker
 
-Currently focused on building paved-road developer platforms, advanced serverless architectures, and AI-driven infrastructure automation. I publish technical notes, architecture breakdowns, and platform engineering guides at [zainahmed.net](https://zainahmed.net).
+Right now I am spending most of my time on developer platforms and serverless infrastructure. I write about what I learn at [zainahmed.net](https://zainahmed.net).
 
 Based in the Greater Toronto Area.
 
-## GenAI Infrastructure and Vertex AI
+## GenAI and ML infrastructure
 
-I build production-grade ML and GenAI serving infrastructure with a focus on security, cost control, and developer self-service.
+I run ML and GenAI serving workloads on Google Cloud (Vertex AI, Model Garden, AutoML) and integrate with OpenAI and Anthropic APIs where they fit. Typical projects: AI agent pipelines, chatbot backends, automated data processing, and predictive analytics. Security and cost controls are part of the baseline, not an afterthought.
 
-* **Vertex AI and Gemini:** Designing enterprise AI agent pipelines on Google Cloud, including Model Garden, Vertex AI Studio, and AutoML for custom training and multi-step reasoning orchestration.
-* **API Integration:** OpenAI, Anthropic, Google AI
-* **Applied AI:** Production chatbot infrastructure, automated data processing pipelines, predictive analytics systems
+## How I work
 
-## Engineering Philosophy
+Everything is IaC, peer-reviewed before it merges. I instrument early because I have been burned by debugging blind. Zero-trust networking and IAM least privilege are defaults, not stretch goals. I build internal platforms the way I would build a product: track whether anyone actually uses them, and fix the parts they avoid.
 
-* **Infrastructure as Code:** Every network, dashboard, and policy is version-controlled and peer-reviewed.
-* **Observability First:** If you cannot measure it, you cannot manage it. Instrument early, instrument often.
-* **Security by Design:** Zero-trust networking, IAM least privilege, and automated compliance checks baked into every pipeline.
-* **Developer Velocity:** Building Internal Developer Platforms that reduce cognitive load, enforce golden paths, and accelerate shipping.
-* **Platform Thinking:** Treat internal tooling as a product. Measure adoption, gather feedback, iterate.
-
-## Certifications and Achievements
+## Certifications and achievements
 
 * [**Google Cloud Certified: Associate Cloud Engineer**](https://www.credly.com/badges/baeb2fdc-7115-456e-a5e2-b87204910419/public_url)
 * [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
@@ -54,7 +46,7 @@ I build production-grade ML and GenAI serving infrastructure with a focus on sec
 * [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
 * **Kubernetes Administrator (CKA)** (Planned)
 * **National First Runner Up, Contest-Azm 2020 Mobile App Development**
-* **99.9% uptime** engineered for a cloud-native LMS platform supporting thousands of concurrent users
+* **99.9% uptime** on a cloud-native LMS serving thousands of concurrent users
 
 ## Analytics
 
