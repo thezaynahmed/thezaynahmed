@@ -23,7 +23,7 @@ Seven years in. I write infrastructure the same way I write backend services: ve
 ➤ Container Infrastructure: Docker, Kubernetes, KEDA, GKE, AKS, EKS, Cloud Run<br>
 ➤ Platform and Automation: Terraform, Ansible, Backstage, Google Cloud Deployment Manager<br>
 ➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Cloud Monitoring<br>
-➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Vertex AI, SageMaker
+➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Gemini Enterprise Agent Platform, SageMaker
 
 Right now I am spending most of my time on developer platforms and serverless infrastructure. I write about what I learn at [zainahmed.net](https://zainahmed.net).
 
@@ -31,7 +31,7 @@ Based in the Greater Toronto Area.
 
 ## GenAI and ML infrastructure
 
-I run ML and GenAI serving workloads on Google Cloud (Vertex AI, Model Garden, AutoML) and integrate with OpenAI and Anthropic APIs where they fit. Typical projects: AI agent pipelines, chatbot backends, automated data processing, and predictive analytics. Security and cost controls are part of the baseline, not an afterthought.
+I run ML and GenAI serving workloads on Google Cloud's Gemini Enterprise Agent Platform (formerly Vertex AI), including Agent Studio, Model Garden, and AutoML. I also integrate with OpenAI and Anthropic APIs where they fit. Typical projects: AI agent pipelines, chatbot backends, automated data processing, and predictive analytics. Security and cost controls are part of the baseline, not an afterthought.
 
 ## How I work
 
