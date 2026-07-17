@@ -1,8 +1,8 @@
 # Zain Ahmed
 
-**Senior Software and Platform Engineer | Multi-Cloud Architecture | MLOps and GenAI Infrastructure | 6x Certified**
+**Senior Software and Platform Engineer | Multi-Cloud Architecture | MLOps and GenAI Infrastructure | 5x Certified**
 
-[LinkedIn](https://linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
 
 Senior Software and Platform Engineer building at the intersection of large-scale distributed systems, multi-cloud infrastructure, and production ML/GenAI pipelines. I design and ship Internal Developer Platforms (IDPs) that give engineering teams self-service access to compute, storage, and deployment tooling, cutting operational costs by 30 to 40 percent while compressing release cycles from weeks to hours.
 
@@ -59,13 +59,13 @@ I build production-grade ML and GenAI serving infrastructure with a focus on sec
 ## Analytics
 
 <div align="center">
-  <img src="https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true" alt="Zain Ahmed's GitHub Stats" />
+  <img src="https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Zain Ahmed's Most Used Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true" alt="Zain Ahmed's GitHub Streak" />
   <br><br>
-  <a href="https://app.daily.dev/thezaynahmed"><img src="https://github.com/thezaynahmed/thezaynahmed/blob/main/devcard.svg" width="400" alt="Zayn's Dev Card"/></a>
+  <a href="https://app.daily.dev/thezaynahmed"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/devcard.svg" width="400" alt="Zain Ahmed's Daily.dev Dev Card"/></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=thezaynahmed&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thezaynahmed&color=blue&style=flat-square" alt="Profile Views Counter" />
 </div>
 
