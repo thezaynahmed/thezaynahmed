@@ -62,10 +62,10 @@
   <text x="84" y="84" class="mono" font-size="11" font-weight="700" fill="#0d7a6f" letter-spacing="1.4">FULL-STACK SOFTWARE · AI ENGINEERING · PLATFORM &amp; MLOps</text>
 
   <text x="68" y="128" class="sans" font-size="38" font-weight="800" fill="#18181b" letter-spacing="-1.3">Zain Ahmed</text>
-  <text x="68" y="154" class="mono" font-size="12.5" font-weight="600" fill="#18181b">Senior Software, AI &amp; Platform Engineer <tspan fill="#0d7a6f">·</tspan> <tspan fill="#525866">Full-Stack to Multi-Cloud</tspan></text>
+  <text x="68" y="154" class="mono" font-size="12.5" font-weight="600" fill="#18181b">Senior Software, AI &amp; Platform Engineer <tspan fill="#0d7a6f">·</tspan> <tspan fill="#525866">Full-Stack, Bare-Metal &amp; Multi-Cloud</tspan></text>
 
-  <text x="68" y="186" class="sans" font-size="14" font-weight="400" fill="#525866">Shipping across the full SDLC: <tspan font-weight="600" fill="#18181b">TypeScript/Next.js</tspan> frontends, <tspan font-weight="600" fill="#18181b">Python/Go</tspan> backends,</text>
-  <text x="68" y="208" class="sans" font-size="14" font-weight="400" fill="#525866"><tspan font-weight="600" fill="#18181b">MCP &amp; AI agents</tspan>, and <tspan font-weight="600" fill="#18181b">DevOps/MLOps/AIOps</tspan> across AWS, GCP, Azure, and OCI.</text>
+  <text x="68" y="186" class="sans" font-size="13.8" font-weight="400" fill="#525866">Full SDLC ownership: <tspan font-weight="600" fill="#18181b">TypeScript/Next.js</tspan> &amp; <tspan font-weight="600" fill="#18181b">Python/Go</tspan> software, <tspan font-weight="600" fill="#18181b">MCP &amp; AI agents</tspan>,</text>
+  <text x="68" y="208" class="sans" font-size="13.8" font-weight="400" fill="#525866"><tspan font-weight="600" fill="#18181b">OSS Kubernetes/CNCF</tspan> on <tspan font-weight="600" fill="#18181b">bare-metal Linux</tspan>, and <tspan font-weight="600" fill="#18181b">AWS, GCP, Azure &amp; OCI</tspan>.</text>
 
   <!-- Right 2x2 Architectural Telemetry Grid (x=760..1156, y=52..236) -->
   <line x1="958" y1="52" x2="958" y2="236" stroke="#d4d4d8" stroke-width="1"/>
