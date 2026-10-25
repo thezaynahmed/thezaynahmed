@@ -1,63 +1,60 @@
+<p align="center">
+  <a href="https://zainahmed.net">
+    <img src="./assets/banner.svg" alt="Zain Ahmed: Senior Software and Platform Engineer, Multi-Cloud Architecture, MLOps, and 5x Certified" width="100%" />
+  </a>
+</p>
+
 # Zain Ahmed
 
-**Senior Software and Platform Engineer | Multi-Cloud Architecture | MLOps and GenAI Infrastructure | 5x Certified**
+**[zainahmed.net](https://zainahmed.net)** · **[Engineering Blog](https://zainahmed.net/blog)** · **[Certifications](https://zainahmed.net/certifications)** · **[LinkedIn](https://www.linkedin.com/in/thezainahmed)** · **[Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/)** · **[hello@zainahmed.net](mailto:hello@zainahmed.net)**
 
-[LinkedIn](https://www.linkedin.com/in/thezainahmed) | [Portfolio](https://zainahmed.net) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/) | [Email](mailto:zain.ahm3d@outlook.com)
+I build Internal Developer Platforms (IDPs) and operate infrastructure across AWS, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure. Most of my work comes down to two outcomes: giving engineering teams self-service paths to production and cutting cloud waste by 30 to 40 percent.
 
-I build Internal Developer Platforms (IDPs) and manage infrastructure across AWS, Azure, GCP, and OCI. Most of what I do comes down to two things: giving engineering teams self-service access to compute and deployment tooling, and keeping the bill reasonable. That has typically meant 30 to 40 percent lower operational costs on the environments I own.
+Over the past eight years, I wrote infrastructure the same way I write backend software. Every resource lives in Terraform and ships through automated GitOps pipelines. Kubernetes clusters and GPU inference endpoints share the same release gates. The production environments I run hold a 99.99 percent availability SLA using zero-trust identity and Pod Disruption Budgets.
 
-Seven years in. I write infrastructure the same way I write backend services: version-controlled, tested, deployed through CI. Kubernetes clusters, ML model-serving, serverless workloads, it all goes through the same pipeline. The environments I run hold 99.9 percent SLA uptime, which mostly means I spend a lot of time on observability and capacity planning.
+Today I focus on agentic infrastructure and LLM serving workloads from Toronto, Canada.
 
-**𝗖𝗢𝗥𝗘 𝗖𝗢𝗠𝗣𝗘𝗧𝗘𝗡𝗖𝗜𝗘𝗦**
+## Open Source and Systems
 
-➤ Platform Engineering and Internal Developer Platforms (IDPs, Self-Service Tooling, Golden Paths)<br>
-➤ Software Engineering and Architecture (Python, JavaScript, Java)<br>
-➤ Multi-Cloud Infrastructure (AWS, GCP, Azure, OCI)<br>
-➤ Container Infrastructure and Orchestration (Docker, Kubernetes, KEDA, GKE, AKS, EKS)<br>
-➤ MLOps, GenAI Infrastructure, and Data Pipelines<br>
-➤ DevOps Automation and IaC (Terraform, CloudFormation, Google Cloud Build)
+| System | Focus | Stack |
+| :--- | :--- | :--- |
+| **[zainahmed.net](https://zainahmed.net)** | Personal platform with an OpenAPI 3.1 contract and live HTTP Model Context Protocol (MCP) server. | Next.js 16, TypeScript, MCP. |
+| **[ghostty-config](https://github.com/thezaynahmed/ghostty-config)** | Terminal configuration with Monaspace texture healing and 18 calibrated themes across 16 editors. | Ghostty, Zsh, Tmux, Bash. |
+| **[zainahmed-agent-skills](https://github.com/thezaynahmed/zainahmed-agent-skills)** | Reusable MCP plugin and workflows for multi-cloud SRE blueprints and FinOps analysis. | MCP, JSON Schema. |
+| **[zainahmed-go](https://github.com/thezaynahmed/zainahmed-go)** | Typed Go client SDK generated from the `zainahmed.net` OpenAPI 3.1 specification. | Go, OpenAPI 3.1. |
+| **[nutriguard-clinical-ops](https://github.com/thezaynahmed/nutriguard-clinical-ops)** | Clinical MLOps pipeline with real-time model drift detection and GKE orchestration manifests. | Python, GKE, Docker, GCP. |
+| **[summitlms-azure-terraform](https://github.com/thezaynahmed/summitlms-azure-terraform)** | Zero-trust Azure infrastructure with VNet isolation and Key Vault managed identities. | Terraform, Azure, Docker. |
 
-**𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗧𝗔𝗖𝗞**
+## Selected Writing
 
-➤ Languages: Python, JavaScript, Java, Bash, PowerShell<br>
-➤ Container Infrastructure: Docker, Kubernetes, KEDA, GKE, AKS, EKS, Cloud Run<br>
-➤ Platform and Automation: Terraform, Ansible, Backstage, Google Cloud Deployment Manager<br>
-➤ Observability: Prometheus, Grafana, Datadog, CloudWatch, Cloud Monitoring<br>
-➤ Cloud and ML: Lambda, Cloud Functions, Compute Engine, BigQuery, Gemini Enterprise Agent Platform, SageMaker
+- **[Pod Disruption Budgets: The Floor Kubernetes Won't Let You Fall Below](https://zainahmed.net/blog/pod-disruption-budgets-the-floor-kubernetes-wont-let-you-fall-below)** · Node drains and eviction math during production cluster upgrades.
+- **[SOC 2 Continuous Compliance Blueprint](https://zainahmed.net/blog/soc2-continuous-compliance-blueprint)** · Automated audit evidence and IAM least privilege across cloud accounts.
+- **[Zero-Trust Identity Architecture on Azure](https://zainahmed.net/blog/zero-trust-identity-azure)** · Conditional Access policies and workload identity federation in Entra ID.
+- **[Essential AI Coding Feedback Loops for TypeScript](https://zainahmed.net/blog/essential-ai-coding-feedback-loops-for-typescript)** · Static type gates and test harnesses for autonomous coding agents.
 
-Right now I am spending most of my time on developer platforms and serverless infrastructure. I write about what I learn at [zainahmed.net](https://zainahmed.net).
+## Certifications
 
-Based in the Greater Toronto Area.
+Five active credentials across four cloud providers. Select any link in the table to verify the credential with its issuing authority.
 
-## GenAI and ML infrastructure
+| Provider | Certification | Level | Credential ID | Active Window | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="./assets/providers/aws.svg" width="22" height="22" align="absmiddle" alt="AWS" /> **AWS** | **AWS Certified DevOps Engineer** | Professional | `9906ccb7-1339-4eb9-b714-2c6cbcd56954` | 2025 – 2028 | [Credly ↗](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954). |
+| <img src="./assets/providers/oci.svg" width="22" height="22" align="absmiddle" alt="Oracle" /> **Oracle** | **OCI 2025 Certified DevOps Professional** | Professional | `066828C64B2A78` | 2025 – 2027 | [Oracle CertView ↗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E). |
+| <img src="./assets/providers/aws.svg" width="22" height="22" align="absmiddle" alt="AWS" /> **AWS** | **AWS Certified Solutions Architect** | Associate | `e07463a6-2d96-4cf0-9938-8e1b9e98aba9` | 2025 – 2028 | [Credly ↗](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/). |
+| <img src="./assets/providers/azure.svg" width="22" height="22" align="absmiddle" alt="Azure" /> **Azure** | **Microsoft Certified: Azure Administrator (AZ-104)** | Associate | `2B4E57EA7BFDB97F` | 2026 – 2027 | [Microsoft Learn ↗](https://learn.microsoft.com/api/credentials/share/en-us/thezainahmed/2B4E57EA7BFDB97F?sharingId=605545774BA842AF). |
+| <img src="./assets/providers/gcp.svg" width="22" height="22" align="absmiddle" alt="Google Cloud" /> **Google Cloud** | **Google Cloud Certified: Associate Cloud Engineer** | Associate | `6762cdc7b1ee4bea958e613927dc20af` | 2026 – 2029 | [Credly ↗](https://www.credly.com/badges/baeb2fdc-7115-456e-a5e2-b87204910419/public_url). |
 
-I run ML and GenAI serving workloads on Google Cloud's Gemini Enterprise Agent Platform (formerly Vertex AI), including Agent Studio, Model Garden, and AutoML. I also integrate with OpenAI and Anthropic APIs where they fit. Typical projects: AI agent pipelines, chatbot backends, automated data processing, and predictive analytics. Security and cost controls are part of the baseline, not an afterthought.
+## Quick Start: Query via Terminal or MCP
 
-## How I work
+Connect an MCP client, install the Go SDK, or stream Markdown directly from `zainahmed.net`:
 
-Everything is IaC, peer-reviewed before it merges. I instrument early because I have been burned by debugging blind. Zero-trust networking and IAM least privilege are defaults, not stretch goals. I build internal platforms the way I would build a product: track whether anyone actually uses them, and fix the parts they avoid.
+```bash
+# Register the live HTTP MCP server
+claude mcp add --transport http zainahmed https://zainahmed.net/mcp
 
-## Certifications and achievements
+# Install the typed Go SDK
+go install github.com/thezaynahmed/zainahmed-go@latest
 
-* [**Google Cloud Certified: Associate Cloud Engineer**](https://www.credly.com/badges/baeb2fdc-7115-456e-a5e2-b87204910419/public_url)
-* [**AWS Certified DevOps Engineer (Professional)**](https://www.credly.com/badges/9906ccb7-1339-4eb9-b714-2c6cbcd56954)
-* [**AWS Certified Solutions Architect (Associate)**](https://www.credly.com/badges/e07463a6-2d96-4cf0-9938-8e1b9e98aba9/)
-* [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://learn.microsoft.com/en-us/users/thezainahmed/credentials/2b4e57ea7bfdb97f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-* [**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=066828C64B2A78C45B111478C769FE1F6C8AF57B654ACA771B72E7912DE0A57E)
-* **Kubernetes Administrator (CKA)** (Planned)
-* **National First Runner Up, Contest-Azm 2020 Mobile App Development**
-* **99.9% uptime** on a cloud-native LMS serving thousands of concurrent users
-
-## Analytics
-
-<div align="center">
-  <img src="https://readme-stats-orpin.vercel.app/api?username=thezaynahmed&show_icons=true&theme=tokyonight&hide_border=true" alt="Zain Ahmed's GitHub Stats" />
-  <img src="https://readme-stats-orpin.vercel.app/api/top-langs/?username=thezaynahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Zain Ahmed's Most Used Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezaynahmed&theme=tokyonight&hide_border=true" alt="Zain Ahmed's GitHub Streak" />
-  <br><br>
-  <a href="https://app.daily.dev/thezaynahmed"><img src="https://raw.githubusercontent.com/thezaynahmed/thezaynahmed/main/devcard.svg" width="400" alt="Zain Ahmed's Daily.dev Dev Card"/></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=thezaynahmed&color=blue&style=flat-square" alt="Profile Views Counter" />
-</div>
-
+# Stream the architecture profile as plain Markdown
+curl -sL -H "Accept: text/markdown" https://zainahmed.net/about
+```

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28" role="img" aria-label="Oracle Cloud Infrastructure">
+  <title>Oracle Cloud Infrastructure</title>
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" fill="#fafafa" stroke="#d4d4d8" stroke-width="1.5"/>
+  <g transform="translate(5.2, 9.2) scale(0.675)" fill="none" stroke="#F80000" stroke-width="4">
+    <path d="M10,2 A8,8 0 1,0 10,18 H22 A8,8 0 1,0 22,2 Z"/>
+  </g>
+</svg>
