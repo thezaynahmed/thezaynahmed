@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zainahmed.net">
-    <img src="./assets/banner.svg" alt="Zain Ahmed: Senior Software and Platform Engineer, Multi-Cloud Architecture, MLOps, and 5x Certified" width="100%" />
+    <img src="./assets/banner.svg" alt="Zain Ahmed: Senior Software, AI and Platform Engineer, Full-Stack to Multi-Cloud, and 5x Certified" width="100%" />
   </a>
 </p>
 
@@ -8,29 +8,30 @@
 
 **[zainahmed.net](https://zainahmed.net)** · **[Engineering Blog](https://zainahmed.net/blog)** · **[Certifications](https://zainahmed.net/certifications)** · **[LinkedIn](https://www.linkedin.com/in/thezainahmed)** · **[Microsoft Learn](https://learn.microsoft.com/en-us/users/thezainahmed/)** · **[hello@zainahmed.net](mailto:hello@zainahmed.net)**
 
-I build Internal Developer Platforms (IDPs) and operate infrastructure across AWS, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure. Most of my work comes down to two outcomes: giving engineering teams self-service paths to production and cutting cloud waste by 30 to 40 percent.
+I am a senior full-stack software and platform engineer. I build products across the entire SDLC, from TypeScript and Next.js frontends to Python and Go backend APIs.
 
-Over the past eight years, I wrote infrastructure the same way I write backend software. Every resource lives in Terraform and ships through automated GitOps pipelines. Kubernetes clusters and GPU inference endpoints share the same release gates. The production environments I run hold a 99.99 percent availability SLA using zero-trust identity and Pod Disruption Budgets.
+In AI engineering, I ship Model Context Protocol (MCP) servers and typed SDKs. I also build agentic workflows and evaluation loops on Anthropic, OpenAI, and Google Cloud. Across DevOps, MLOps, and AIOps, I operate Internal Developer Platforms (IDPs) and Kubernetes clusters on AWS, Google Cloud, Azure, and Oracle Cloud Infrastructure.
 
-Today I focus on agentic infrastructure and LLM serving workloads from Toronto, Canada.
+Over the past eight years, I treated infrastructure and AI pipelines like application software. Every resource lives in Terraform and deploys through automated GitOps gates. The production systems I own hold a 99.99 percent availability SLA while cutting cloud spend by 30 to 40 percent. I work from Toronto, Canada.
 
 ## Open Source and Systems
 
-| System | Focus | Stack |
+| System | Scope | Stack |
 | :--- | :--- | :--- |
-| **[zainahmed.net](https://zainahmed.net)** | Personal platform with an OpenAPI 3.1 contract and live HTTP Model Context Protocol (MCP) server. | Next.js 16, TypeScript, MCP. |
-| **[ghostty-config](https://github.com/thezaynahmed/ghostty-config)** | Terminal configuration with Monaspace texture healing and 18 calibrated themes across 16 editors. | Ghostty, Zsh, Tmux, Bash. |
-| **[zainahmed-agent-skills](https://github.com/thezaynahmed/zainahmed-agent-skills)** | Reusable MCP plugin and workflows for multi-cloud SRE blueprints and FinOps analysis. | MCP, JSON Schema. |
+| **[zainahmed.net](https://zainahmed.net)** | Full-stack platform, OpenAPI 3.1 contract, and live HTTP Model Context Protocol (MCP) gateway. | Next.js 16, TypeScript, MCP. |
+| **[ghostty-config](https://github.com/thezaynahmed/ghostty-config)** | Terminal architecture with Monaspace texture healing and 18 calibrated themes across 16 editors. | Ghostty, Zsh, Tmux, Bash. |
+| **[zainahmed-agent-skills](https://github.com/thezaynahmed/zainahmed-agent-skills)** | Reusable MCP plugin and AI agent workflows for multi-cloud SRE blueprints and FinOps analysis. | MCP, JSON Schema, TypeScript. |
 | **[zainahmed-go](https://github.com/thezaynahmed/zainahmed-go)** | Typed Go client SDK generated from the `zainahmed.net` OpenAPI 3.1 specification. | Go, OpenAPI 3.1. |
-| **[nutriguard-clinical-ops](https://github.com/thezaynahmed/nutriguard-clinical-ops)** | Clinical MLOps pipeline with real-time model drift detection and GKE orchestration manifests. | Python, GKE, Docker, GCP. |
+| **[nutriguard-clinical-ops](https://github.com/thezaynahmed/nutriguard-clinical-ops)** | Full-stack clinical MLOps platform with real-time model drift detection and GKE manifests. | Python, Next.js, GKE, GCP. |
+| **[team-boost](https://github.com/thezaynahmed/team-boost)** | Collaborative workspace application with Microsoft Entra ID authentication and Azure deployment. | Next.js, TypeScript, Azure. |
 | **[summitlms-azure-terraform](https://github.com/thezaynahmed/summitlms-azure-terraform)** | Zero-trust Azure infrastructure with VNet isolation and Key Vault managed identities. | Terraform, Azure, Docker. |
 
 ## Selected Writing
 
+- **[Essential AI Coding Feedback Loops for TypeScript](https://zainahmed.net/blog/essential-ai-coding-feedback-loops-for-typescript)** · Static type gates and test harnesses for autonomous coding agents.
 - **[Pod Disruption Budgets: The Floor Kubernetes Won't Let You Fall Below](https://zainahmed.net/blog/pod-disruption-budgets-the-floor-kubernetes-wont-let-you-fall-below)** · Node drains and eviction math during production cluster upgrades.
 - **[SOC 2 Continuous Compliance Blueprint](https://zainahmed.net/blog/soc2-continuous-compliance-blueprint)** · Automated audit evidence and IAM least privilege across cloud accounts.
 - **[Zero-Trust Identity Architecture on Azure](https://zainahmed.net/blog/zero-trust-identity-azure)** · Conditional Access policies and workload identity federation in Entra ID.
-- **[Essential AI Coding Feedback Loops for TypeScript](https://zainahmed.net/blog/essential-ai-coding-feedback-loops-for-typescript)** · Static type gates and test harnesses for autonomous coding agents.
 
 ## Certifications
 
